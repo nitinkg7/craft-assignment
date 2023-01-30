@@ -1,0 +1,11 @@
+isPublic: false
+name: InstituteSchema
+scope:
+  - 'sites.9335a8b9-5970-4b13-ba94-62ea6ad0bee3:read' # cmscraft
+  - 'sections.6638ce49-75e3-4d47-b0c5-9ee9704dc8f8:read' # Institutes
+  - 'entrytypes.b4c6ec60-cd89-4377-8d42-116de8174811:read' # institute
+  - 'sections.6638ce49-75e3-4d47-b0c5-9ee9704dc8f8:edit' # Institutes
+  - 'entrytypes.b4c6ec60-cd89-4377-8d42-116de8174811:edit' # institute
+  - 'entrytypes.b4c6ec60-cd89-4377-8d42-116de8174811:create' # institute
+  - 'entrytypes.b4c6ec60-cd89-4377-8d42-116de8174811:save' # institute
+  - 'entrytypes.b4c6ec60-cd89-4377-8d42-116de8174811:delete' # institute

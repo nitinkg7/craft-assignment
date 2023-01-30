@@ -1,0 +1,20 @@
+columnSuffix: zlezqkkc
+contentColumnType: integer(10)
+fieldGroup: 5322baa6-4fa6-47f6-a77d-5b5d06b4c8bc # profile group
+handle: age
+instructions: null
+name: Age
+searchable: false
+settings:
+  decimals: 0
+  defaultValue: null
+  max: null
+  min: 0
+  prefix: null
+  previewCurrency: null
+  previewFormat: decimal
+  size: null
+  suffix: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Number

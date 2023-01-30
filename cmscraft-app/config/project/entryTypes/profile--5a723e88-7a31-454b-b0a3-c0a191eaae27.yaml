@@ -1,0 +1,79 @@
+fieldLayouts:
+  c90ab2bc-5241-4584-ab9c-1fabfb17be76:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 7e476407-e3f8-4f46-814a-932efa20a2dd # Name
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 047b03dd-b358-4b49-b5a9-ac9a454a7b8f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 975ccaf4-e13f-4d1a-b8c2-e12241b15987 # Age
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 047e3d22-6fda-4820-9d31-6ea266ef4c1f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: d09c175c-d6c2-4c1d-8199-28835c90b646 # Institute Name
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 409895c5-7002-461c-ab43-fb40ef5999da
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: __blank__
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: fec9a711-b07f-4bfb-9a67-3ca20f1e1333
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: a9e288ce-8517-4f1a-bbde-e6a2d29521f3
+        userCondition: null
+handle: profile
+hasTitleField: false
+name: Profile
+section: fa80eea6-f784-469c-97f4-45694c8f8886 # Profile
+sortOrder: 1
+titleFormat: '{profile_name}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

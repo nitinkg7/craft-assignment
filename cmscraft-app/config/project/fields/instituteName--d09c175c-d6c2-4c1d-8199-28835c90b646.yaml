@@ -1,0 +1,34 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 5322baa6-4fa6-47f6-a77d-5b5d06b4c8bc # profile group
+handle: instituteName
+instructions: null
+name: 'Institute Name'
+searchable: false
+settings:
+  allowSelfRelations: false
+  localizeRelations: false
+  maxRelations: null
+  minRelations: null
+  selectionCondition:
+    __assoc__:
+      -
+        - elementType
+        - craft\elements\Entry
+      -
+        - fieldContext
+        - global
+      -
+        - class
+        - craft\elements\conditions\entries\EntryCondition
+  selectionLabel: 'Enter Institute Name'
+  showSiteMenu: false
+  source: null
+  sources:
+    - 'section:6638ce49-75e3-4d47-b0c5-9ee9704dc8f8' # Institutes
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Entries

@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: institutes
+name: Institutes
+propagationMethod: all
+siteSettings:
+  9335a8b9-5970-4b13-ba94-62ea6ad0bee3: # cmscraft
+    enabledByDefault: true
+    hasUrls: true
+    template: institutes/_entry
+    uriFormat: 'institutes/{slug}'
+type: channel

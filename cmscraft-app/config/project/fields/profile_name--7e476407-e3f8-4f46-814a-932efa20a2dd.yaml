@@ -1,0 +1,19 @@
+columnSuffix: dtqirrqs
+contentColumnType: text
+fieldGroup: 5322baa6-4fa6-47f6-a77d-5b5d06b4c8bc # profile group
+handle: profile_name
+instructions: null
+name: Name
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

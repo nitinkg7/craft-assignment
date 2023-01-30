@@ -1,0 +1,54 @@
+dateModified: 1675079666
+elementSources:
+  craft\elements\Entry:
+    -
+      key: '*'
+      type: native
+    -
+      heading: Channels
+      type: heading
+    -
+      defaultSort:
+        - postDate
+        - desc
+      disabled: false
+      key: 'section:6638ce49-75e3-4d47-b0c5-9ee9704dc8f8' # Institutes
+      tableAttributes:
+        - postDate
+        - expiryDate
+        - link
+        - uri
+      type: native
+email:
+  fromEmail: guptanitinkumar2k9@gmail.com
+  fromName: cmscraft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    5a723e88-7a31-454b-b0a3-c0a191eaae27: Profile # Profile
+    7e476407-e3f8-4f46-814a-932efa20a2dd: Name # Name
+    94b479b2-91fb-4c47-b4a5-4a3016d59ddd: 'Public Schema' # Public Schema
+    975ccaf4-e13f-4d1a-b8c2-e12241b15987: Age # Age
+    5322baa6-4fa6-47f6-a77d-5b5d06b4c8bc: 'profile group' # profile group
+    6638ce49-75e3-4d47-b0c5-9ee9704dc8f8: Institutes # Institutes
+    9335a8b9-5970-4b13-ba94-62ea6ad0bee3: cmscraft # cmscraft
+    a040b866-bdeb-42d9-9688-db85fa5b46f0: 'institues group' # institues group
+    a6ec8c27-48be-4711-9268-fcc37f8b945d: cmscraft # cmscraft
+    a150fee4-db0a-47fc-81db-e93063c46c0c: Common # Common
+    b4c6ec60-cd89-4377-8d42-116de8174811: institute # institute
+    c11e949d-0ab1-4782-b5ea-69e8e05e27bb: InstituteSchema # InstituteSchema
+    d09c175c-d6c2-4c1d-8199-28835c90b646: 'Institute Name' # Institute Name
+    d9147cbb-2ca3-479b-ba05-2167ba33d5ac: profileSchema
+    fa80eea6-f784-469c-97f4-45694c8f8886: Profile # Profile
+system:
+  edition: pro
+  live: true
+  name: cmscraft
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
