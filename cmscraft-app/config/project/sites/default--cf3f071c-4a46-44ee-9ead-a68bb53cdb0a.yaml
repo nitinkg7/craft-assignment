@@ -2,7 +2,7 @@ baseUrl: $PRIMARY_SITE_URL
 handle: default
 hasUrls: true
 language: en-US
-name: cmscraft
+name: demo
 primary: true
-siteGroup: a6ec8c27-48be-4711-9268-fcc37f8b945d # cmscraft
+siteGroup: 61212099-be40-4578-9877-06d0fdced990
 sortOrder: 1
